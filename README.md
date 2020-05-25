@@ -20,7 +20,7 @@ doc
  ██████████████████  ████████     tony@tony-pc
  ██████████████████  ████████     OS: Manjaro 19.0 Kyria
  ██████████████████  ████████     Kernel: x86_64 Linux 5.4.18-1-MANJARO
- ██████████████████  ████████     Uptime: 1d 13h 39m
+ ██████████████████  ████████     Uptime: 385d 13h 39m
  ████████            ████████     Packages: 1301
  ████████  ████████  ████████     Shell: bash 5.0.11
  ████████  ████████  ████████     Resolution: 1920x1080
@@ -35,5 +35,12 @@ doc
                                   GPU: Intel Corporation UHD Graphics 620 (rev 07)
                                   RAM: 7113MiB / 15899MiB
 ```
-![Qt_version.png](Qt_version.png)
+![Qt_version.png(如果加载不出来检查网络，刷新页面即可)](Qt_version.png)
 
+## 运行
+```bash
+cd bin/
+make
+./MyselfQQ
+```
+![运行效果图.png(如果加载不出来检查网络，刷新页面即可)](运行效果图.png)
