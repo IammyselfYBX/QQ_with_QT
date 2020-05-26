@@ -10,10 +10,12 @@ git clone https://github.com/IammyselfYBX/Qt_test_QQ.git
 该目录存放<b>选题</b>与<b>报告</b>。
 ```bash
 doc
-├── 附件1-计算机网络期末大作业选题.docx
-└── 附件2-计算机网络期末大作业报告.doc
+├── 附件1-计算机网络期末大作业选题.docx 
+├── 附件2-计算机网络期末大作业报告.doc
+├── 计算机网络大作业(java版本).doc      #之前老版本的java简陋版本
+└── 计算机网络大作业(Qt版本).doc        #使用Qt升级的版本，采用udp广播的形式完成
 
-0 directories, 2 files
+0 directories, 4 files
 ```
 
 ## 开发环境
